@@ -105,7 +105,7 @@ const Projects = ({openModal,setOpenModal}) => {
         <Container id="projects">
             <Wrapper>
                 <Title>Projects</Title>
-                <Desc>I have worked on a wide range of projects. From web apps to andriod apps. Here are some of my projects.</Desc>
+                <Desc>I have worked on a wide range of projects. Here are some of my projects. To see the project in detail, click on the project where you can see the code button as well as view live deployed app.</Desc>
 
                 <ToggleButtonGroup >
                     {toggle === 'all' ?
